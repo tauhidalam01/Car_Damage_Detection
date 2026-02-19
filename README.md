@@ -115,7 +115,6 @@ Car_Damage_Detection/
 
 ## 🧪 Model Details
 ```
-
 -- Base Model: ResNet50
 
 -- Framework: PyTorch
@@ -126,9 +125,9 @@ Car_Damage_Detection/
 ```
 
 ---
-
 ## 👨‍💻 Author
 ```
 Tauhid Alam
 Machine Learning & Deep learning  Enthusiast
 ```
+

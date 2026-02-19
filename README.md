@@ -126,7 +126,8 @@ Car_Damage_Detection/
 ## 👨‍💻 Author
 ```
 Tauhid Alam
-Machine Learning & Deep learning  Enthusiast
+Machine Learning | Deep Learning | Generative AI
 ```
+
 
 

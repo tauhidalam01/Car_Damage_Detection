@@ -49,9 +49,7 @@ Streamlit UI → PyTorch Model → Prediction Output
 
 ## 🎯 Damage Classes
 ```
-
 The model predicts the following categories:
-
 - Front_Breakage  
 - Front_Crushed  
 - Front_Normal  
@@ -130,4 +128,5 @@ Car_Damage_Detection/
 Tauhid Alam
 Machine Learning & Deep learning  Enthusiast
 ```
+
 
